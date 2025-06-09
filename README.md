@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Frontend+Engineer+%F0%9F%92%BB;Team+Lead+%F0%9F%9A%80;Code+Artist+%F0%9F%8E%A8;Making+Web+Beautiful+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Frontend+Engineer+%F0%9F%92%BB;Team+Lead+%F0%9F%9A%80;Code+Artist+%F0%9F%8E%A8;Making+Web+And+Mobile+Beautiful+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -195,7 +195,7 @@ currentlyLearning:
   - "Web performance optimization"
   - "Accessibility best practices"
 
-funFact: "I transitioned from English Literature to Tech - and I think that storytelling background makes me a better developer!"
+funFact: "I transitioned from English and Literary Studies to Tech - and I think that journey has given me a rare blend of clear communication, storytelling, and clean architecture!"
 
 askMeAbout: 
   - "Frontend architecture"
