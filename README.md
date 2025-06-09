@@ -13,85 +13,95 @@
 
 ### 🚀 About Me
 
-I’m Sarah, a **Senior Frontend Engineer** with 4+ years of experience leading development teams, architecting modern web apps, and delivering high-impact solutions across industries like health, payroll, and lifestyle tech.
+I’m Sarah, a **Senior Frontend Engineer** with 4+ years of experience leading frontend teams and delivering scalable, impactful web applications. I specialize in designing user-first interfaces and architecting secure, high-performance systems.
 
-My career began in **English & Literary Studies**, where I developed storytelling, empathy, and analytical thinking—skills I now bring to every product I build.
-
-💡 Building platforms used by **50K+ users** monthly  
-🚀 Expert in **Vue 3**, **React**, **Nuxt 3**, **Node.js**, **CI/CD**, and **JWT/RBAC Security**
+🧩 From a degree in English & Literary Studies to leading engineering teams  
+📦 Building tech products used by **50K+ monthly users**  
+🔐 Securing enterprise apps with **JWT auth** & **RBAC systems**  
+🧪 Writing bug-resistant code through robust testing strategies
 
 ---
 
-### 🛠 Tech Stack
+### 🔧 Skills & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+#### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+#### ⚙️ Frameworks & Libraries
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=nuxt.js)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
+
+#### 🔧 DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 
 ---
 
-### 🧠 Noteworthy Projects
+### 🧠 Featured Projects
 
 #### 🔹 [Okan Eats](https://okaneats.com.ng)
-Real-time food ordering platform processing **10K+ orders/month**, with:
-- 98% checkout success rate (Paystack integration)
-- 60% page speed improvement via Cloudinary & lazy loading
-- Smart filtering and barcode-based review system
+> Real-time food ordering app (10K+ monthly orders)
+- Paystack checkout: 98% success
+- Cloudinary & lazy loading: 60% faster
+- Barcode reviews and smart filters
 
 #### 🔹 [Memorial Web App](https://memorial-app-vert.vercel.app/)
-A tribute-sharing social platform built with React + Supabase:
-- Real-time media uploads
-- Interactive content sorting and Swiper-powered UI
-- Designed for emotional storytelling and engagement
+> Social tribute platform
+- Real-time image/video upload with Supabase
+- Content sorting, Swiper.js, and media pagination
 
 #### 🔹 [K & A Dispatch](https://kadispatchbusiness.com/)
-Landing site for a logistics company:
-- GSAP-powered animations and EmailJS forms
-- Lazy loading for performance (50% faster load time)
-- Sleek, brand-forward multi-page UI
+> B2B/B2C logistics landing site
+- GSAP animation, EmailJS forms
+- Lazy loading = 50% faster experience
 
-#### 🔹 [Rendezvous Luxury Care] – (Private Project)
-A lifestyle platform serving 1,000+ users:
-- Built with Nuxt 3 + Pinia + JWT-secured auth
-- Features: luxury store, matchmaking, tour booking, onboarding
-- Result: 70% faster load times, 20% boost in engagement
+#### 🔹 [Rendezvous Luxury Care] *(private)*
+> A Nuxt-powered lifestyle platform with:
+- Matchmaking, luxury store, auth, onboarding
+- 70% faster load time, 20% boost in engagement
 
 ---
 
-### ✍🏽 I Also Write Tech Articles
+### ✍🏽 Blog Articles
 
-I publish tutorials, guides, and dev insights on Hashnode:
-- 📘 [CSS Positioning: A Beginner’s Guide](https://nero.hashnode.dev/a-beginners-guide-to-understanding-the-basics-of-css-positions)
-- 📘 [Understanding REST APIs](https://nero.hashnode.dev/rest-apis)
+📘 [CSS Positioning: A Beginner’s Guide](https://nero.hashnode.dev/a-beginners-guide-to-understanding-the-basics-of-css-positions)  
+📘 [Understanding REST APIs](https://nero.hashnode.dev/rest-apis)  
 
-> My writing is all about clarity—making complex frontend concepts feel simple and accessible.
+> My goal: make tech accessible, clear, and elegant.
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sarah-Obarhoro&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah-Obarhoro&layout=compact&theme=radical" height="150"/>
 </p>
 
----
+### 🔥 GitHub Streak
 
-### 🤝 Let's Connect
-
-If you're building a meaningful product and need frontend excellence, leadership, or collaboration, I’d love to hear from you.
-
-📫 obarhorosarah@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/sarah-obarhoro/) | [Hashnode Blog](https://nero.hashnode.dev) | [Portfolio](https://sarah-portfolio-chi.vercel.app)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarah-Obarhoro&theme=radical" height="200"/>
+</p>
 
 ---
 
-<!-- Footer visitor badge -->
+### 🤝 Let’s Connect
+
+📬 **obarhorosarah@gmail.com**  
+🌍 [LinkedIn](https://www.linkedin.com/in/sarah-obarhoro/) | [Hashnode Blog](https://nero.hashnode.dev) | [Portfolio](https://sarah-portfolio-chi.vercel.app)
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sarah-Obarhoro&label=Profile%20Views&color=brightgreen&style=flat" />
 </p>
