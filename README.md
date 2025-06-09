@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" alt="Cute Anime Character" width="300" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhiM3I2enF6MG5ma2syZWswb2ZtenJpNTN5NDFtZTR6cDAwczZzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O5lDNfS3kdjSdSrxQc/giphy.gif" alt="Cute Anime Girl Coding" width="400" />
 </p>
 
 <h1 align="center">
@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Frontend+Engineer+%F0%9F%92%BB;Team+Lead+%F0%9F%9A%80;Code+Artist+%F0%9F%8E%A8;Making+Web+And+Mobile+Beautiful+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Senior+Frontend+Engineer+%F0%9F%92%BB;Team+Lead+%F0%9F%9A%80;Code+Artist+%F0%9F%8E%A8;Making+Web+And+Mobile+Beautiful+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
