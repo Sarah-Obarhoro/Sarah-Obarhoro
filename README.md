@@ -17,7 +17,6 @@ I’m Sarah, a **Senior Frontend Engineer** with 4+ years of experience leading 
 
 My career began in **English & Literary Studies**, where I developed storytelling, empathy, and analytical thinking—skills I now bring to every product I build.
 
-💼 Currently leading frontend at **Jayco Links** and **Tunnels NG**  
 💡 Building platforms used by **50K+ users** monthly  
 🚀 Expert in **Vue 3**, **React**, **Nuxt 3**, **Node.js**, **CI/CD**, and **JWT/RBAC Security**
 
@@ -85,7 +84,7 @@ I publish tutorials, guides, and dev insights on Hashnode:
 
 ### 🤝 Let's Connect
 
-If you're building a meaningful product and need frontend excellence, leadership, or collaboration—I’d love to hear from you.
+If you're building a meaningful product and need frontend excellence, leadership, or collaboration, I’d love to hear from you.
 
 📫 obarhorosarah@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/sarah-obarhoro/) | [Hashnode Blog](https://nero.hashnode.dev) | [Portfolio](https://sarah-portfolio-chi.vercel.app)
